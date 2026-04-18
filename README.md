@@ -25,13 +25,3 @@ apps híbridas con Capacitor y aplicaciones complejas en React + Tailwind.
 **También:** Angular (básico) · Python (scripting y APIs)
 
 ---
-
-#### 📌 Proyectos destacados
-
-🔹 **[Nombre del proyecto 1]** — [una línea de qué hace]  
-   Stack: React, TypeScript, Tailwind, Node.js  
-   [Link al repo] · [Link al demo si tienes]
-
-🔹 **[Nombre del proyecto 2]** — [una línea de qué hace]  
-   Stack: [tecnologías]  
-   [Link al repo] · [Link al demo]
