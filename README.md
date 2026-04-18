@@ -1,15 +1,37 @@
-# Hola, Soy Deiby Peña ✌
+### Hola, soy Deiby 👋
 
-***
+Desarrollador Full-Stack con 4+ años construyendo aplicaciones web 
+y móviles en producción. Trabajo end-to-end desde Figma hasta despliegue,
+con foco en arquitectura modular, rendimiento y experiencia de usuario.
 
-### Freelance full-stack Web
-#### Desarrollador de software enfocado en mejorar el rendimiento y el diseño en las páginas web. Me destaco por mi habilidad de adaptación al cambio y solución de problemas, excelente comunicación asertiva y aprendizaje autodidacta que me han permitido generar proyectos innovadores de gran impacto en el área del desarrollo.
-***
+🔭 **Actualmente:** Desarrollador Web en Planeta IP — dashboards, 
+apps híbridas con Capacitor y aplicaciones complejas en React + Tailwind.
 
-#### Tecnologías:
+🌱 **Aprendiendo:** Next.js (App Router) e integración de IA con OpenAI API.
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://github.com/piparcode) [![nodejs](https://img.shields.io/badge/nodejs-0a1?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://github.com/piparcode) [![mysql](https://img.shields.io/badge/mysql-09e?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://github.com/piparcode) [![tailwind css](https://img.shields.io/badge/tailwind-09d?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)](https://github.com/piparcode)
+💼 **Disponible para:** Roles full-stack remotos en Colombia y LATAM.
 
-y alguna más..
+📫 **Contáctame:** deiby.penaa@gmail.com
 
-***
+---
+
+#### 🛠 Stack técnico
+
+**Frontend:** React · TypeScript · JavaScript · Tailwind CSS · Astro · HTML5 · CSS3  
+**Backend:** Node.js · Express · REST APIs · PostgreSQL · MongoDB  
+**Cloud / BaaS:** Supabase · Firebase · Vercel · Netlify  
+**Móvil:** Capacitor (apps híbridas iOS/Android)  
+**Herramientas:** Git · GitHub · Figma · GitHub Copilot  
+**También:** Angular (básico) · Python (scripting y APIs)
+
+---
+
+#### 📌 Proyectos destacados
+
+🔹 **[Nombre del proyecto 1]** — [una línea de qué hace]  
+   Stack: React, TypeScript, Tailwind, Node.js  
+   [Link al repo] · [Link al demo si tienes]
+
+🔹 **[Nombre del proyecto 2]** — [una línea de qué hace]  
+   Stack: [tecnologías]  
+   [Link al repo] · [Link al demo]
