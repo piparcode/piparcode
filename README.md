@@ -1,17 +1,20 @@
 ### Hola, soy Deiby 👋
 
-Desarrollador Full-Stack con 4+ años construyendo aplicaciones web 
-y móviles en producción. Trabajo end-to-end desde Figma hasta despliegue,
-con foco en arquitectura modular, rendimiento y experiencia de usuario.
+Desarrollador **Full-Stack** con más de 5 años de experiencia construyendo aplicaciones web, móviles y sistemas empresariales. Me especializo en **arquitectura modular**, integración de servicios, optimización de rendimiento y despliegues en la nube.
 
-🔭 **Actualmente:** Desarrollador Web en Planeta IP — dashboards, 
-apps híbridas con Capacitor y aplicaciones complejas en React + Tailwind.
+He trabajado en proyectos para empresas de distintos sectores, desarrollando soluciones robustas, escalables y alineadas con objetivos técnicos y de negocio.
 
-🌱 **Aprendiendo:** Next.js (App Router) e integración de IA con OpenAI API.
+🔭 **Actualmente:** Desarrollador **independiente**, ofreciendo servicios de desarrollo, consultoría y soporte técnico para empresas en Colombia, España y LATAM.
 
-💼 **Disponible para:** Roles full-stack remotos en Colombia y LATAM.
+💼 **Servicios profesionales:**
+- Desarrollo de aplicaciones web y móviles  
+- Paneles administrativos, dashboards y sistemas internos  
+- Integración de APIs y automatización de procesos  
+- Consultoría técnica y optimización de plataformas existentes  
+- Mantenimiento, soporte y evolución de productos digitales  
+- Desarrollo de MVPs para startups y nuevos negocios  
 
-📫 **Contáctame:** deiby.penaa@gmail.com
+📫 **Contacto:** deiby.penaa@gmail.com
 
 ---
 
@@ -20,8 +23,6 @@ apps híbridas con Capacitor y aplicaciones complejas en React + Tailwind.
 **Frontend:** React · TypeScript · JavaScript · Tailwind CSS · Astro · HTML5 · CSS3  
 **Backend:** Node.js · Express · REST APIs · PostgreSQL · MongoDB  
 **Cloud / BaaS:** Supabase · Firebase · Vercel · Netlify  
-**Móvil:** Capacitor (apps híbridas iOS/Android)  
+**Móvil:** Capacitor (iOS/Android híbrido)  
 **Herramientas:** Git · GitHub · Figma · GitHub Copilot  
 **También:** Angular (básico) · Python (scripting y APIs)
-
----
